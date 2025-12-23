@@ -1,6 +1,6 @@
 # translations
 
-個人的に翻訳したものまとめ
+京念屋隆史が個人的に翻訳したものまとめ
 
 - [モーリス・ブーヴェ「女性の強迫神経症におけるペニス羨望の意識化の治療的影響」の日本語訳](https://github.com/kyonenya/nevrose-obsessionnelle-feminine)
 - [ブルース・フィンク『愛についてのラカン：ラカンのセミネール8『転移』の探究』の日本語訳](https://github.com/kyonenya/lacan-on-love)
