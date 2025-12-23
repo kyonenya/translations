@@ -3,10 +3,10 @@
 個人的に翻訳したものまとめ
 
 - [モーリス・ブーヴェ「女性の強迫神経症におけるペニス羨望の意識化の治療的影響」の日本語訳](https://github.com/kyonenya/nevrose-obsessionnelle-feminine)
+- [ブルース・フィンク『愛についてのラカン：ラカンのセミネール8『転移』の探究』の日本語訳](https://github.com/kyonenya/lacan-on-love)
 - [ジャック・ラカン「治療の指導とその力の諸原則」（『エクリ』所収）の日本語訳](https://github.com/kyonenya/direction-de-la-cure)
 - [ジャック・ラカン「転移に関する発言」（『エクリ』所収）の日本語訳](https://github.com/kyonenya/intervention-sur-le-transfert)
 - [ジャック・ラカン「女性のセクシュアリティについての会議のための指導的発言」（『エクリ』所収）の日本語訳](https://github.com/kyonenya/propos-sexualite-feminine)
-- [ブルース・フィンク『愛についてのラカン：ラカンのセミネール8『転移』の探究』の日本語訳](https://github.com/kyonenya/lacan-on-love)
 - [L. イェケルス・E. ベルグラー「転移と愛」の日本語訳](https://github.com/kyonenya/transference-and-love)
 
 ## 抄訳
